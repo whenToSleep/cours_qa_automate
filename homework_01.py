@@ -73,8 +73,8 @@ print(evening_temp)
 """
 boys = 24
 girls = boys / 2
-today_boys = boys - 2
-today_girls = girls - 3
+today_boys = boys - 1
+today_girls = girls - 2
 sum_children = today_boys + today_girls
 print(sum_children)
 
